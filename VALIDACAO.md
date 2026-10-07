@@ -8,6 +8,8 @@ O atualizador `preparar_dashboard.py` foi executado sobre a planilha sanitizada 
 
 O JavaScript do HTML foi executado em ambiente de teste com representação dos elementos da página. Foram testadas todas as opções individuais de modelo, estado, ano do modelo e pagamento, as situações, o botão de restauração e uma combinação sem registros. Quantidade, valor total, modelos distintos e número de linhas da tabela foram comparados a cálculos independentes.
 
-Limitação: não foi possível concluir a validação visual em navegador neste ambiente, pois o navegador local necessário não estava disponível. Não foram produzidos prints que simulem uma execução real. Depois da publicação, é necessário abrir o painel no navegador, confirmar o layout no computador e no celular e registrar um print geral e outro com filtro aplicado.
+GitHub Pages publicado e verificado no navegador em 7 de outubro de 2026. O fluxo de publicação terminou com sucesso. O layout no computador foi inspecionado e dois screenshots reais foram registrados: `dashboard-geral.jpg` e `dashboard-filtro-ca.jpg`.
 
-A publicação no GitHub Pages permanece pendente da conexão com a conta do autor. Não houve verificação de um link publicado.
+O filtro Estado = CA apresentou 16 registros e US$ 1.973.350,00. As situações Todos e Somente cancelamentos apresentaram 100 e 7 registros; Limpar filtros restaurou 93. Não foram observados erros de console originados pela dashboard; o navegador registrou mensagens de sua própria extensão.
+
+O layout possui regras responsivas, mas não houve inspeção visual em um aparelho celular.

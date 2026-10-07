@@ -79,7 +79,19 @@ Abra [index.html](index.html) no navegador. Não é necessário instalar depend�
 
 ## Publicação
 
-**Pendente de publicação na conta GitHub do autor.** Nenhum endereço publicado foi inventado. Depois de ativar o GitHub Pages, substitua este parágrafo pelo link confirmado do painel.
+Dashboard publicada: [abrir painel](https://joseelizeudacosta123-sys.github.io/dashboard-porsche-vendas/).
+
+Repositório público para submissão: [dashboard-porsche-vendas](https://github.com/joseelizeudacosta123-sys/dashboard-porsche-vendas).
+
+GitHub Pages configurado na branch `main`, pasta raiz. Publicação e execução verificadas em 7 de outubro de 2026.
+
+### Evidências
+
+![Dashboard publicada](dashboard-geral.jpg)
+
+Exemplo: Estado = CA e Situação = Sem cancelamentos. Resultado: 16 registros, US$ 1.973.350,00, ticket médio US$ 123.334,38 e 14 modelos.
+
+![Filtro de Califórnia aplicado](dashboard-filtro-ca.jpg)
 
 Veja [PUBLICAR.md](PUBLICAR.md) para criar o repositório público e ativar Pages. Para submeter o desafio, use o endereço do repositório na sua própria conta.
 
