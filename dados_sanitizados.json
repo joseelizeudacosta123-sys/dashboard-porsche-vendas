@@ -1,0 +1,1002 @@
+[
+  {
+    "modelo": "718 Cayman",
+    "ano_modelo": 2022,
+    "preco": 79500.0,
+    "cidade": "Boston",
+    "estado": "MA",
+    "pagamento": "Credit Card",
+    "data_venda": null,
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "911 Turbo S",
+    "ano_modelo": 2024,
+    "preco": 235000.0,
+    "cidade": "Seattle",
+    "estado": "WA",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2024-03-14",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Cayenne Coupe",
+    "ano_modelo": 2023,
+    "preco": 112750.0,
+    "cidade": "Austin",
+    "estado": "TX",
+    "pagamento": "Financing",
+    "data_venda": "2024-04-18",
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Macan S",
+    "ano_modelo": 2021,
+    "preco": 68900.0,
+    "cidade": "Denver",
+    "estado": "CO",
+    "pagamento": "Cash",
+    "data_venda": null,
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "Taycan 4S",
+    "ano_modelo": 2024,
+    "preco": 121000.0,
+    "cidade": "Los Angeles",
+    "estado": "CA",
+    "pagamento": "Bank Transfer",
+    "data_venda": "2024-05-22",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Panamera 4",
+    "ano_modelo": 2023,
+    "preco": 104500.0,
+    "cidade": "Miami",
+    "estado": "FL",
+    "pagamento": "Credit Card",
+    "data_venda": "2024-08-06",
+    "situacao": "Cancelled"
+  },
+  {
+    "modelo": "911 Carrera S",
+    "ano_modelo": 2020,
+    "preco": 96300.0,
+    "cidade": "New York",
+    "estado": "NY",
+    "pagamento": "Lease",
+    "data_venda": "2024-07-11",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Cayenne E-Hybrid",
+    "ano_modelo": 2022,
+    "preco": 89750.0,
+    "cidade": "San Diego",
+    "estado": "CA",
+    "pagamento": "Wire Transfer",
+    "data_venda": null,
+    "situacao": "Pending Approval"
+  },
+  {
+    "modelo": "718 Boxster",
+    "ano_modelo": 2021,
+    "preco": 73500.0,
+    "cidade": "Chicago",
+    "estado": "IL",
+    "pagamento": "Debit Card",
+    "data_venda": "2024-08-19",
+    "situacao": "Shipped"
+  },
+  {
+    "modelo": "Macan GTS",
+    "ano_modelo": 2024,
+    "preco": 95000.0,
+    "cidade": "Phoenix",
+    "estado": "AZ",
+    "pagamento": "Financing",
+    "data_venda": "2024-09-02",
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Taycan Turbo",
+    "ano_modelo": 2023,
+    "preco": 153200.5,
+    "cidade": "Dallas",
+    "estado": "TX",
+    "pagamento": "ACH Payment",
+    "data_venda": "2024-09-17",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "911 GT3",
+    "ano_modelo": 2024,
+    "preco": 241000.0,
+    "cidade": "Las Vegas",
+    "estado": "NV",
+    "pagamento": "Wire Transfer",
+    "data_venda": null,
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "Panamera Turbo S",
+    "ano_modelo": 2022,
+    "preco": 132000.0,
+    "cidade": "San Jose",
+    "estado": "CA",
+    "pagamento": "Cash",
+    "data_venda": "2024-05-11",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Cayenne Turbo GT",
+    "ano_modelo": 2024,
+    "preco": 188000.0,
+    "cidade": "Houston",
+    "estado": "TX",
+    "pagamento": "Crypto Payment",
+    "data_venda": "2024-12-12",
+    "situacao": "Awaiting Delivery"
+  },
+  {
+    "modelo": "911 Carrera Cabriolet",
+    "ano_modelo": 2023,
+    "preco": 127800.0,
+    "cidade": "Atlanta",
+    "estado": "GA",
+    "pagamento": "Credit Card",
+    "data_venda": "2024-12-25",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Macan",
+    "ano_modelo": 2021,
+    "preco": 58900.0,
+    "cidade": "Orlando",
+    "estado": "FL",
+    "pagamento": "Bank Transfer",
+    "data_venda": "2025-01-06",
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "718 Spyder RS",
+    "ano_modelo": 2024,
+    "preco": 164000.0,
+    "cidade": "Portland",
+    "estado": "OR",
+    "pagamento": "Financing",
+    "data_venda": null,
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Taycan Cross Turismo",
+    "ano_modelo": 2023,
+    "preco": 118500.0,
+    "cidade": "Charlotte",
+    "estado": "NC",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2025-02-14",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Cayenne S",
+    "ano_modelo": 2022,
+    "preco": 91300.0,
+    "cidade": "Nashville",
+    "estado": "TN",
+    "pagamento": "Credit Card",
+    "data_venda": null,
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "911 Targa 4S",
+    "ano_modelo": 2024,
+    "preco": 158750.0,
+    "cidade": "Minneapolis",
+    "estado": "MN",
+    "pagamento": "Lease",
+    "data_venda": "2025-03-21",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Panamera",
+    "ano_modelo": 2020,
+    "preco": 72000.0,
+    "cidade": "Philadelphia",
+    "estado": "PA",
+    "pagamento": "Bank Transfer",
+    "data_venda": "2025-03-28",
+    "situacao": "Cancelled"
+  },
+  {
+    "modelo": "Macan Electric",
+    "ano_modelo": 2025,
+    "preco": 86500.0,
+    "cidade": "San Antonio",
+    "estado": "TX",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2025-04-09",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "911 Dakar",
+    "ano_modelo": 2024,
+    "preco": 270000.0,
+    "cidade": "Salt Lake City",
+    "estado": "UT",
+    "pagamento": "Cash",
+    "data_venda": null,
+    "situacao": "Awaiting Pickup"
+  },
+  {
+    "modelo": "Taycan GTS",
+    "ano_modelo": 2023,
+    "preco": 139000.0,
+    "cidade": "Raleigh",
+    "estado": "NC",
+    "pagamento": "Financing",
+    "data_venda": "2025-05-12",
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Cayenne",
+    "ano_modelo": 2021,
+    "preco": 76800.0,
+    "cidade": "Detroit",
+    "estado": "MI",
+    "pagamento": "Credit Card",
+    "data_venda": "2025-06-18",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "718 Cayman GT4 RS",
+    "ano_modelo": 2024,
+    "preco": 173600.0,
+    "cidade": "Columbus",
+    "estado": "OH",
+    "pagamento": "Wire Transfer",
+    "data_venda": null,
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "911 Carrera GTS",
+    "ano_modelo": 2022,
+    "preco": 119900.0,
+    "cidade": "Indianapolis",
+    "estado": "IN",
+    "pagamento": "Cash",
+    "data_venda": "2025-07-07",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Panamera 4 E-Hybrid",
+    "ano_modelo": 2023,
+    "preco": 109250.0,
+    "cidade": "Fort Worth",
+    "estado": "TX",
+    "pagamento": "Lease",
+    "data_venda": "2025-07-22",
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Macan T",
+    "ano_modelo": 2022,
+    "preco": 82000.0,
+    "cidade": "Jacksonville",
+    "estado": "FL",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2025-08-14",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Taycan Turbo S",
+    "ano_modelo": 2025,
+    "preco": 214000.0,
+    "cidade": "San Diego",
+    "estado": "CA",
+    "pagamento": "Crypto Payment",
+    "data_venda": "2025-09-01",
+    "situacao": "Pending Review"
+  },
+  {
+    "modelo": "911 Carrera",
+    "ano_modelo": 2024,
+    "preco": 124500.0,
+    "cidade": "Tampa",
+    "estado": "FL",
+    "pagamento": "Credit Card",
+    "data_venda": null,
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Cayenne S",
+    "ano_modelo": 2023,
+    "preco": 98200.0,
+    "cidade": "Sacramento",
+    "estado": "CA",
+    "pagamento": "Bank Transfer",
+    "data_venda": "2025-09-18",
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "Macan",
+    "ano_modelo": 2022,
+    "preco": 67500.0,
+    "cidade": "Cleveland",
+    "estado": "OH",
+    "pagamento": "Financing",
+    "data_venda": "2025-10-04",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Taycan",
+    "ano_modelo": 2025,
+    "preco": 116900.0,
+    "cidade": "Milwaukee",
+    "estado": "WI",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2025-10-12",
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Panamera 4S",
+    "ano_modelo": 2024,
+    "preco": 112000.0,
+    "cidade": "Kansas City",
+    "estado": "MO",
+    "pagamento": "Cash",
+    "data_venda": "2025-10-29",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "718 Boxster",
+    "ano_modelo": 2021,
+    "preco": 74000.0,
+    "cidade": "Omaha",
+    "estado": "NE",
+    "pagamento": "Debit Card",
+    "data_venda": "2025-02-11",
+    "situacao": "Cancelled"
+  },
+  {
+    "modelo": "911 Turbo",
+    "ano_modelo": 2024,
+    "preco": 198300.0,
+    "cidade": "Albuquerque",
+    "estado": "NM",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2025-11-16",
+    "situacao": "Awaiting Delivery"
+  },
+  {
+    "modelo": "Cayenne Coupe",
+    "ano_modelo": 2023,
+    "preco": 103750.0,
+    "cidade": "Tucson",
+    "estado": "AZ",
+    "pagamento": "Wire Transfer",
+    "data_venda": null,
+    "situacao": "Pending Approval"
+  },
+  {
+    "modelo": "Macan GTS",
+    "ano_modelo": 2024,
+    "preco": 93600.0,
+    "cidade": "Fresno",
+    "estado": "CA",
+    "pagamento": "Financing",
+    "data_venda": null,
+    "situacao": "Shipped"
+  },
+  {
+    "modelo": "Taycan 4S",
+    "ano_modelo": 2025,
+    "preco": 129000.0,
+    "cidade": "Virginia Beach",
+    "estado": "VA",
+    "pagamento": "ACH Payment",
+    "data_venda": "2025-12-07",
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Panamera Turbo",
+    "ano_modelo": 2022,
+    "preco": 136000.0,
+    "cidade": "Colorado Springs",
+    "estado": "CO",
+    "pagamento": "Credit Card",
+    "data_venda": "2025-12-22",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "911 GT3 RS",
+    "ano_modelo": 2024,
+    "preco": 286500.0,
+    "cidade": "Arlington",
+    "estado": "TX",
+    "pagamento": "Wire Transfer",
+    "data_venda": null,
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "Cayenne E-Hybrid",
+    "ano_modelo": 2023,
+    "preco": 92800.0,
+    "cidade": "Bakersfield",
+    "estado": "CA",
+    "pagamento": "Lease",
+    "data_venda": "2026-01-08",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Macan T",
+    "ano_modelo": 2022,
+    "preco": 72400.0,
+    "cidade": "Mesa",
+    "estado": "AZ",
+    "pagamento": "Cash",
+    "data_venda": "2026-01-15",
+    "situacao": "Awaiting Pickup"
+  },
+  {
+    "modelo": "Taycan Turbo",
+    "ano_modelo": 2025,
+    "preco": 158500.0,
+    "cidade": "Atlanta",
+    "estado": "GA",
+    "pagamento": "Crypto Payment",
+    "data_venda": "2026-01-28",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "718 Cayman",
+    "ano_modelo": 2021,
+    "preco": 69900.0,
+    "cidade": "Long Beach",
+    "estado": "CA",
+    "pagamento": "Bank Transfer",
+    "data_venda": "2026-02-03",
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "911 Targa 4",
+    "ano_modelo": 2024,
+    "preco": 141250.0,
+    "cidade": "Oakland",
+    "estado": "CA",
+    "pagamento": "Financing",
+    "data_venda": null,
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Panamera",
+    "ano_modelo": 2020,
+    "preco": 71500.0,
+    "cidade": "Tulsa",
+    "estado": "OK",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2026-02-19",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Cayenne Turbo",
+    "ano_modelo": 2023,
+    "preco": 146800.0,
+    "cidade": "Wichita",
+    "estado": "KS",
+    "pagamento": "Credit Card",
+    "data_venda": "2026-02-25",
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "Macan Electric",
+    "ano_modelo": 2025,
+    "preco": 89700.0,
+    "cidade": "New Orleans",
+    "estado": "LA",
+    "pagamento": "Lease",
+    "data_venda": "2026-03-01",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "911 Carrera S",
+    "ano_modelo": 2022,
+    "preco": 104600.0,
+    "cidade": "Honolulu",
+    "estado": "HI",
+    "pagamento": "Bank Transfer",
+    "data_venda": "2026-03-14",
+    "situacao": "Cancelled"
+  },
+  {
+    "modelo": "Taycan GTS",
+    "ano_modelo": 2024,
+    "preco": 142000.0,
+    "cidade": "Anaheim",
+    "estado": "CA",
+    "pagamento": "Wire Transfer",
+    "data_venda": null,
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Cayenne",
+    "ano_modelo": 2021,
+    "preco": 78400.0,
+    "cidade": "Henderson",
+    "estado": "NV",
+    "pagamento": "Cash",
+    "data_venda": "2026-04-08",
+    "situacao": "Awaiting Review"
+  },
+  {
+    "modelo": "718 Spyder RS",
+    "ano_modelo": 2025,
+    "preco": 169000.0,
+    "cidade": "Lexington",
+    "estado": "KY",
+    "pagamento": "Financing",
+    "data_venda": null,
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "911 Dakar",
+    "ano_modelo": 2024,
+    "preco": 268900.0,
+    "cidade": "Riverside",
+    "estado": "CA",
+    "pagamento": "Credit Card",
+    "data_venda": "2026-04-21",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Panamera 4",
+    "ano_modelo": 2023,
+    "preco": 101300.0,
+    "cidade": "Corpus Christi",
+    "estado": "TX",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2026-04-29",
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "Macan S",
+    "ano_modelo": 2021,
+    "preco": 66750.0,
+    "cidade": "St. Louis",
+    "estado": "MO",
+    "pagamento": "Cash",
+    "data_venda": "2026-05-05",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Taycan Cross Turismo",
+    "ano_modelo": 2024,
+    "preco": 127900.0,
+    "cidade": "Pittsburgh",
+    "estado": "PA",
+    "pagamento": "Lease",
+    "data_venda": "2026-05-14",
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Cayenne Turbo GT",
+    "ano_modelo": 2025,
+    "preco": 200000.0,
+    "cidade": "Cincinnati",
+    "estado": "OH",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2026-05-23",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "911 Carrera Cabriolet",
+    "ano_modelo": 2023,
+    "preco": 132000.0,
+    "cidade": "Anchorage",
+    "estado": "AK",
+    "pagamento": "Crypto Payment",
+    "data_venda": "2026-06-02",
+    "situacao": "Pending Review"
+  },
+  {
+    "modelo": "718 Cayman GT4 RS",
+    "ano_modelo": 2024,
+    "preco": 176400.0,
+    "cidade": "Plano",
+    "estado": "TX",
+    "pagamento": "Credit Card",
+    "data_venda": "2026-06-15",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Panamera 4 E-Hybrid",
+    "ano_modelo": 2022,
+    "preco": 108500.0,
+    "cidade": "Newark",
+    "estado": "NJ",
+    "pagamento": "Bank Transfer",
+    "data_venda": null,
+    "situacao": "Cancelled"
+  },
+  {
+    "modelo": "Macan",
+    "ano_modelo": 2021,
+    "preco": 59000.0,
+    "cidade": "Greensboro",
+    "estado": "NC",
+    "pagamento": "Financing",
+    "data_venda": "2026-07-07",
+    "situacao": "Awaiting Delivery"
+  },
+  {
+    "modelo": "Taycan Turbo S",
+    "ano_modelo": 2025,
+    "preco": 218000.0,
+    "cidade": "Lincoln",
+    "estado": "NE",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2026-07-20",
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "Cayenne S",
+    "ano_modelo": 2024,
+    "preco": 99950.0,
+    "cidade": "Jersey City",
+    "estado": "NJ",
+    "pagamento": "Debit Card",
+    "data_venda": null,
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "911 Carrera GTS",
+    "ano_modelo": 2024,
+    "preco": 121750.0,
+    "cidade": "Chandler",
+    "estado": "AZ",
+    "pagamento": "Credit Card",
+    "data_venda": "2026-04-08",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "718 Boxster GTS",
+    "ano_modelo": 2023,
+    "preco": 91500.0,
+    "cidade": "Reno",
+    "estado": "NV",
+    "pagamento": "Lease",
+    "data_venda": "2026-08-18",
+    "situacao": "Shipped"
+  },
+  {
+    "modelo": "Panamera Turbo S",
+    "ano_modelo": 2022,
+    "preco": 134000.0,
+    "cidade": "Buffalo",
+    "estado": "NY",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2026-08-31",
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Macan GTS",
+    "ano_modelo": 2024,
+    "preco": 96800.0,
+    "cidade": "Durham",
+    "estado": "NC",
+    "pagamento": "ACH Payment",
+    "data_venda": "2026-09-09",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Taycan 4S",
+    "ano_modelo": 2025,
+    "preco": 131600.0,
+    "cidade": "Laredo",
+    "estado": "TX",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2026-09-17",
+    "situacao": "Pending Approval"
+  },
+  {
+    "modelo": "Cayenne E-Hybrid",
+    "ano_modelo": 2023,
+    "preco": 94300.0,
+    "cidade": "Madison",
+    "estado": "WI",
+    "pagamento": "Cash",
+    "data_venda": "2026-09-28",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "911 Turbo S",
+    "ano_modelo": 2025,
+    "preco": 242000.0,
+    "cidade": "Lubbock",
+    "estado": "TX",
+    "pagamento": "Crypto Payment",
+    "data_venda": "2026-10-06",
+    "situacao": "Awaiting Pickup"
+  },
+  {
+    "modelo": "718 Cayman S",
+    "ano_modelo": 2022,
+    "preco": 82750.0,
+    "cidade": "Toledo",
+    "estado": "OH",
+    "pagamento": "Credit Card",
+    "data_venda": "2026-10-16",
+    "situacao": "Cancelled"
+  },
+  {
+    "modelo": "Macan Electric",
+    "ano_modelo": 2026,
+    "preco": 91300.0,
+    "cidade": "Irvine",
+    "estado": "CA",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2026-10-29",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Panamera",
+    "ano_modelo": 2021,
+    "preco": 79900.0,
+    "cidade": "Garland",
+    "estado": "TX",
+    "pagamento": "Financing",
+    "data_venda": "2026-11-03",
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "Cayenne Coupe",
+    "ano_modelo": 2024,
+    "preco": 111000.0,
+    "cidade": "Irving",
+    "estado": "TX",
+    "pagamento": "Bank Transfer",
+    "data_venda": null,
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "911 Targa 4S",
+    "ano_modelo": 2023,
+    "preco": 156500.0,
+    "cidade": "Chesapeake",
+    "estado": "VA",
+    "pagamento": "Cash",
+    "data_venda": "2026-12-11",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Taycan",
+    "ano_modelo": 2025,
+    "preco": 119900.0,
+    "cidade": "Scottsdale",
+    "estado": "AZ",
+    "pagamento": "Lease",
+    "data_venda": "2026-12-24",
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "Macan T",
+    "ano_modelo": 2022,
+    "preco": 73200.0,
+    "cidade": "Norfolk",
+    "estado": "VA",
+    "pagamento": "Wire Transfer",
+    "data_venda": null,
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "911 GT3",
+    "ano_modelo": 2024,
+    "preco": 224000.0,
+    "cidade": "Boise",
+    "estado": "ID",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2026-12-28",
+    "situacao": "Awaiting Delivery"
+  },
+  {
+    "modelo": "911 Carrera",
+    "ano_modelo": 2024,
+    "preco": 126900.0,
+    "cidade": "Orlando",
+    "estado": "FL",
+    "pagamento": "Credit Card",
+    "data_venda": "2027-01-15",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Cayenne",
+    "ano_modelo": 2023,
+    "preco": 84500.0,
+    "cidade": "San Jose",
+    "estado": "CA",
+    "pagamento": "Bank Transfer",
+    "data_venda": "2027-01-29",
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "Macan S",
+    "ano_modelo": 2022,
+    "preco": 69800.0,
+    "cidade": "Tampa",
+    "estado": "FL",
+    "pagamento": "Financing",
+    "data_venda": "2027-02-11",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Taycan 4S",
+    "ano_modelo": 2025,
+    "preco": 132700.0,
+    "cidade": "Denver",
+    "estado": "CO",
+    "pagamento": "Wire Transfer",
+    "data_venda": null,
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Panamera",
+    "ano_modelo": 2021,
+    "preco": 81000.0,
+    "cidade": "Austin",
+    "estado": "TX",
+    "pagamento": "Cash",
+    "data_venda": "2027-03-05",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "718 Cayman",
+    "ano_modelo": 2023,
+    "preco": 78900.0,
+    "cidade": "Seattle",
+    "estado": "WA",
+    "pagamento": "Debit Card",
+    "data_venda": "2027-03-18",
+    "situacao": "Cancelled"
+  },
+  {
+    "modelo": "911 Turbo S",
+    "ano_modelo": 2026,
+    "preco": 249300.0,
+    "cidade": "Boston",
+    "estado": "MA",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2027-04-02",
+    "situacao": "Awaiting Delivery"
+  },
+  {
+    "modelo": "Cayenne Coupe",
+    "ano_modelo": 2024,
+    "preco": 108750.0,
+    "cidade": "Phoenix",
+    "estado": "AZ",
+    "pagamento": "Wire Transfer",
+    "data_venda": null,
+    "situacao": "Pending Approval"
+  },
+  {
+    "modelo": "Macan Electric",
+    "ano_modelo": 2026,
+    "preco": 92600.0,
+    "cidade": "Chicago",
+    "estado": "IL",
+    "pagamento": "Financing",
+    "data_venda": null,
+    "situacao": "Shipped"
+  },
+  {
+    "modelo": "Taycan Turbo",
+    "ano_modelo": 2025,
+    "preco": 164000.0,
+    "cidade": "Dallas",
+    "estado": "TX",
+    "pagamento": "ACH Payment",
+    "data_venda": "2027-05-12",
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Panamera 4S",
+    "ano_modelo": 2024,
+    "preco": 119000.0,
+    "cidade": "San Francisco",
+    "estado": "CA",
+    "pagamento": "Credit Card",
+    "data_venda": "2027-05-27",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "911 GT3",
+    "ano_modelo": 2026,
+    "preco": 232500.0,
+    "cidade": "Las Vegas",
+    "estado": "NV",
+    "pagamento": "Wire Transfer",
+    "data_venda": null,
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "Cayenne E-Hybrid",
+    "ano_modelo": 2023,
+    "preco": 96800.0,
+    "cidade": "Charlotte",
+    "estado": "NC",
+    "pagamento": "Lease",
+    "data_venda": "2027-06-18",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Macan T",
+    "ano_modelo": 2022,
+    "preco": 74400.0,
+    "cidade": "Mesa",
+    "estado": "AZ",
+    "pagamento": "Cash",
+    "data_venda": "2027-07-03",
+    "situacao": "Awaiting Pickup"
+  },
+  {
+    "modelo": "Taycan GTS",
+    "ano_modelo": 2025,
+    "preco": 148500.0,
+    "cidade": "Atlanta",
+    "estado": "GA",
+    "pagamento": "Crypto Payment",
+    "data_venda": "2027-07-22",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "718 Boxster",
+    "ano_modelo": 2021,
+    "preco": 71900.0,
+    "cidade": "Long Beach",
+    "estado": "CA",
+    "pagamento": "Bank Transfer",
+    "data_venda": "2027-08-08",
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "911 Targa 4",
+    "ano_modelo": 2024,
+    "preco": 143250.0,
+    "cidade": "Oakland",
+    "estado": "CA",
+    "pagamento": "Financing",
+    "data_venda": null,
+    "situacao": "In Transit"
+  },
+  {
+    "modelo": "Panamera Turbo",
+    "ano_modelo": 2020,
+    "preco": 137500.0,
+    "cidade": "Tulsa",
+    "estado": "OK",
+    "pagamento": "Wire Transfer",
+    "data_venda": "2027-09-19",
+    "situacao": "Delivered"
+  },
+  {
+    "modelo": "Cayenne Turbo GT",
+    "ano_modelo": 2025,
+    "preco": 204800.0,
+    "cidade": "Wichita",
+    "estado": "KS",
+    "pagamento": "Credit Card",
+    "data_venda": "2027-09-25",
+    "situacao": "Pending"
+  },
+  {
+    "modelo": "911 Dakar",
+    "ano_modelo": 2024,
+    "preco": 271700.0,
+    "cidade": "New Orleans",
+    "estado": "LA",
+    "pagamento": "Lease",
+    "data_venda": "2027-10-01",
+    "situacao": "Delivered"
+  }
+]

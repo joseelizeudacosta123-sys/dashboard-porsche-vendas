@@ -1,0 +1,10 @@
+{
+  "registros": 100,
+  "campos_sanitizados_conferidos": 900,
+  "colunas_originais_preservadas": true,
+  "sanitizadas_imediatamente_apos_origem": true,
+  "invalidos_por_coluna": {
+    "SaleDateSanitized": 24
+  },
+  "divergencias_por_coluna": {}
+}
